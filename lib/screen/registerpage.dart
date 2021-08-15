@@ -1,0 +1,1 @@
+// register page tarafından oluşturuldu
